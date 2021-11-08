@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeNumberSelectionMethod", "NodeNumberSelectionMethod\NodeNumberSelectionMethod.csproj", "{2628EB40-FA90-470F-B26C-98432E779483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeNumberSelectionMethodTests", "NodeNumberSelectionMethodTests\NodeNumberSelectionMethodTests.csproj", "{C9A3F8C0-F641-4531-B100-265906D093AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2628EB40-FA90-470F-B26C-98432E779483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2628EB40-FA90-470F-B26C-98432E779483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2628EB40-FA90-470F-B26C-98432E779483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2628EB40-FA90-470F-B26C-98432E779483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A3F8C0-F641-4531-B100-265906D093AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A3F8C0-F641-4531-B100-265906D093AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A3F8C0-F641-4531-B100-265906D093AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A3F8C0-F641-4531-B100-265906D093AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6204FAA1-0FE4-4116-95BF-898B2F8A6AAA}
+	EndGlobalSection
+EndGlobal
